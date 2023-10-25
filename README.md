@@ -46,7 +46,7 @@ Most projects here are from my work on the neutron electric dipole moment (nEDM)
 | [gpibUSB](https://github.com/dougUCN/gpibUSB) | Use a Prologix GPIB USB controller  <br /> to interface with a DS345, BNC577,  <br /> and/or a DG535 |
 | [H54-200-S500-R](https://github.com/dougUCN/H54-200-S500-R) | Minimal wrapper interfacing with <br />  the dynamixel sdk to control <br />  actuation of a H54-200-S500-R motor |
 | [STM23Q](https://github.com/dougUCN/STM23Q) | Library for communication with the  <br /> STM23 family of motors from  <br /> Applied Motion Products |
-| [zmqLANL](https://github.com/dougUCN/zmqLANL) | Provides a simplified ZeroMQ (zmq) <br /> for interaction between a controller <br /> and worker threads |
+| [zmqLANL](https://github.com/dougUCN/zmqLANL) | Provides a simplified ZeroMQ (zmq) <br /> for interaction between controller <br /> and worker threads |
 
 </td><td align="center">
 <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> <img alt="shell" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white"/>
@@ -54,7 +54,7 @@ Most projects here are from my work on the neutron electric dipole moment (nEDM)
 | Name | Description|
 |--|--|
 | [qchain](https://github.com/dougUCN/qchain) | Gets around per-user job limits for a TORQUE <br /> or SLURM computing cluster queue|
-| [qComsol](https://github.com/dougUCN/qComsol) | Submits ![Comsol][comsolBadge] batch jobs to a TORQUE  <br /> queuing system and resubmits if a license error  <br /> is thrown |
+| [qComsol](https://github.com/dougUCN/qComsol) | Submits ![Comsol][comsolBadge] batch jobs to a TORQUE  <br /> queuing system and resubmits if a license <br /> error is thrown |
 
 </td></tr> </table>
 
