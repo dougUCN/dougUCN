@@ -1,7 +1,9 @@
 
 ![AreaB_crop](https://github.com/dougUCN/dougUCN/assets/13689951/d8ce0fbe-308c-49b5-905f-c61e2b3470cc)
 
-<sup><sub> Pictured: LANL nEDM experiment. Photo creds: Josh Burdine </sup></sub> 
+<sup><sub> (Above): LANL nEDM experiment. Photo creds: Josh Burdine  <br /> (Profile pic): Ramen made by me, including the noodles </sup></sub>  </sup></sub> 
+
+Most projects here are from my work on the neutron electric dipole moment (nEDM) experiment at Los Alamos National Labs (LANL)
 
 ### Projects
 
@@ -13,7 +15,7 @@
 | Name | Description | Tech |
 |--|--|--|
 | LANE ([client](https://github.com/dougUCN/LANE-client)) ([server](https://github.com/dougUCN/LANE-server)) | Full stack dashboard for experimental control <br /> and live monitoring of the LANL nEDM experiment | ![TypeScript][typescriptBadge] ![Vite][viteBadge] ![Django][djangoBadge] <br /> ![Nginx][nginxBadge] ![GraphQL][graphqlBadge] ![SQLite][sqliteBadge] 
-| [pulseTrain](https://github.com/dougUCN/pulseTrain)  | Application of ML computer vision models to neutron  <br /> events in detectors| ![Python][pythonBadge] ![PyTorch][pytorchBadge] <br /> ![NumPy][numpyBadge]  	![scikit-learn][scikitBadge] |
+| [pulseTrain](https://github.com/dougUCN/pulseTrain)  | Application of machine learning (ML) computer vision <br />  models to neutron events in detectors| ![Python][pythonBadge] ![PyTorch][pytorchBadge] <br /> ![NumPy][numpyBadge]  	![scikit-learn][scikitBadge] |
 | [thesis](https://github.com/dougUCN/thesis) | My PhD dissertation on the neutron electric dipole (nEDM)  <br /> experiment at Los Alamos National Labs (LANL) | 	![LaTeX][latexBadge] ![Python][pythonBadge] ![C++][cppBadge]  <br />  ![Pandas][pandasBadge]  ![NumPy][numpyBadge] ![SciPy][scipyBadge]
 
 </td></tr> </table>
@@ -25,22 +27,29 @@
 
 | Name | Description | Tech |
 |--|--|--|
-| [PENTrack](https://github.com/dougUCN/PENTrack) | Simulation tool for ultracold neutrons. <br /> Forked from [wschreyer/PENTrack](https://github.com/wschreyer/PENTrack) for PRs | ![C++][cppBadge] |
-| [ramseyCPP](https://github.com/dougUCN/ramseyCPP) <br /> [ramsey](https://github.com/dougUCN/ramsey) | Numerical evaluation of the Ramsey method <br /> of oscillatory fields with Runge Kutta 4th order | ![C++][cppBadge] <br /> ![Python][pythonBadge]
+| [PENTrack](https://github.com/dougUCN/PENTrack) | Simulation tool for ultracold neutrons (UCNs). <br /> Forked from [wschreyer/PENTrack](https://github.com/wschreyer/PENTrack) for PRs | ![C++][cppBadge] |
+| [ramseyCPP](https://github.com/dougUCN/ramseyCPP) <br /> [ramsey](https://github.com/dougUCN/ramsey) | Numerical evaluation of the Ramsey method <br /> of oscillatory fields with Runge Kutta 4th order | ![C++][cppBadge] <br /> ![Python][pythonBadge] |
+| [randomWalk](https://github.com/dougUCN/randomWalk) | 1D random walk to simulate the LANL nEDM filling sequence | ![C++][cppBadge] |
 
 
 </td></tr> </table>
 
 <tr><td></table>
 <table>
-<tr><th> Instrumentation &emsp; <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> </th><th> HPC utilities &emsp; <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> <img alt="shell" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white"/>  </th></tr>
-<tr><td>
-
+<tr><th> Instrumentation </th><th> HPC utilities   </th></tr>
+<tr valign="top"><td align="center">
+<img alt="python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> <img alt="shell" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white"/>
+     
 | Name | Description|
 |--|--|
-| [](https://github.com/dougUCN/SIS3316)
+| [SIS3316](https://github.com/dougUCN/SIS3316) <br /> [sis3316_gui](https://github.com/dougUCN/sis3316_gui) | 250 MHz ADC by struck.de  <br /> with external time standard support  <br /> and a minimal ![Qt Badge][qtBadge] GUI |
+| [gpibUSB](https://github.com/dougUCN/gpibUSB) | Use a Prologix GPIB USB controller  <br /> to interface with a DS345, BNC577,  <br /> and/or a DG535 |
+| [H54-200-S500-R](https://github.com/dougUCN/H54-200-S500-R) | Minimal wrapper interfacing with <br />  the dynamixel sdk to control <br />  actuation of a H54-200-S500-R motor |
+| [STM23Q](https://github.com/dougUCN/STM23Q) | Library for communication with the  <br /> STM23 family of motors from  <br /> Applied Motion Products |
+| [zmqLANL](https://github.com/dougUCN/zmqLANL) | Provides a simplified ZeroMQ (zmq) <br /> wrapper for dedicated device servers to<br /> interact  with a main controller client |
 
-</td><td>
+</td><td align="center">
+<img alt="python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> <img alt="shell" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white"/>
 
 | Name | Description|
 |--|--|
@@ -63,6 +72,7 @@
 [sqliteBadge]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white
 [pytorchBadge]: https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white
 [numpyBadge]: https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white
+[qtBadge]: https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat-square
 [scikitBadge]: https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white
 [cppBadge]: https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white
 [comsolBadge]: https://img.shields.io/badge/Comsol-368CCB?logo=comsol&logoColor=fff&style=flat-square
