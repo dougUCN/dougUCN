@@ -1,16 +1,36 @@
-### Hi there 👋
 
-<!--
-**dougUCN/dougUCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![AreaB_crop](https://github.com/dougUCN/dougUCN/assets/13689951/d8ce0fbe-308c-49b5-905f-c61e2b3470cc)
 
-Here are some ideas to get you started:
+### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<tr><td></table>
+<table>
+<tr><th>Highlights </th><th>Physics </th></tr>
+<tr><td>
+
+| Name | Tech | Description|
+|--|--|--|
+
+</td><td>
+
+| Name | Description|
+|--|--|
+
+</td></tr> </table>
+
+<tr><td></table>
+<table>
+<tr><th> Instrumentation </th><th> HPC utilities </th></tr>
+<tr><td>
+
+| Name | Description|
+|--|--|
+
+</td><td>
+
+| Name | Description|
+|--|--|
+
+</td></tr> </table>
+
+
