@@ -3,7 +3,7 @@
 
 <sup><sub> (Above): LANL nEDM experiment. Photo creds: Josh Burdine  <br /> (Profile pic): Ramen made by me, including the noodles </sup></sub>  </sup></sub> 
 
-Most projects here are from my work on the neutron electric dipole moment (nEDM) experiment at Los Alamos National Labs (LANL), which uses ultracold neutrons (UCNs)
+Most projects here are from my work on the neutron electric dipole moment (nEDM) experiment at Los Alamos National Labs (LANL), which uses ultracold neutrons (UCNs) to probe for sources of time-reversal asymmetry
 
 ### Projects
 
