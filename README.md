@@ -14,7 +14,7 @@ Most projects here are from my work on the neutron electric dipole moment (nEDM)
 
 | Name | Description | Tech |
 |--|--|--|
-| LANE ([client](https://github.com/dougUCN/LANE-client)) ([server](https://github.com/dougUCN/LANE-server)) | Full stack dashboard for experimental control <br /> and live monitoring of the LANL nEDM experiment | ![TypeScript][typescriptBadge] ![Vite][viteBadge] ![Django][djangoBadge] <br /> ![Nginx][nginxBadge] ![GraphQL][graphqlBadge] ![SQLite][sqliteBadge] 
+| LANE <br />  ([client](https://github.com/dougUCN/LANE-client)) ([server](https://github.com/dougUCN/LANE-server)) | Full stack dashboard for experimental control <br /> and live monitoring of the LANL nEDM experiment | ![TypeScript][typescriptBadge] ![Vite][viteBadge] ![Django][djangoBadge] <br /> ![Nginx][nginxBadge] ![GraphQL][graphqlBadge] ![SQLite][sqliteBadge] 
 | [pulseTrain](https://github.com/dougUCN/pulseTrain)  | Application of machine learning (ML) computer vision <br />  models to neutron events in detectors| ![Python][pythonBadge] ![PyTorch][pytorchBadge]  ![Pandas][pandasBadge] <br /> ![NumPy][numpyBadge] ![scikit-learn][scikitBadge] |
 | [thesis](https://github.com/dougUCN/thesis) | My PhD dissertation on the neutron electric dipole (nEDM)  <br /> experiment at Los Alamos National Labs (LANL) | 	![LaTeX][latexBadge] ![Python][pythonBadge] ![C++][cppBadge]  <br />  ![Pandas][pandasBadge]  ![NumPy][numpyBadge] ![SciPy][scipyBadge]
 
