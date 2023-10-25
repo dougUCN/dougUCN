@@ -46,7 +46,7 @@ Most projects here are from my work on the neutron electric dipole moment (nEDM)
 | [gpibUSB](https://github.com/dougUCN/gpibUSB) | Use a Prologix GPIB USB controller  <br /> to interface with a DS345, BNC577,  <br /> and/or a DG535 |
 | [H54-200-S500-R](https://github.com/dougUCN/H54-200-S500-R) | Minimal wrapper interfacing with <br />  the dynamixel sdk to control <br />  actuation of a H54-200-S500-R motor |
 | [STM23Q](https://github.com/dougUCN/STM23Q) | Library for communication with the  <br /> STM23 family of motors from  <br /> Applied Motion Products |
-| [zmqLANL](https://github.com/dougUCN/zmqLANL) | Provides a simplified ZeroMQ (zmq) <br /> for interaction between controller <br /> and worker threads |
+| [zmqLANL](https://github.com/dougUCN/zmqLANL) | Provides a simplified ![ZeroMQ][zmqBadge] <br /> wrapper for interaction between <br /> controller and worker threads |
 
 </td><td align="center">
 <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> <img alt="shell" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white"/>
@@ -80,5 +80,6 @@ Most projects here are from my work on the neutron electric dipole moment (nEDM)
 [pandasBadge]: https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white
 [scipyBadge]: https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white
 [condaBadge]: https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white
+[zmqBadge]: https://img.shields.io/badge/ZeroMQ-DF0000?logo=zeromq&logoColor=fff&style=flat-square
 
 
